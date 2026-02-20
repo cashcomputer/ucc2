@@ -1,0 +1,20 @@
+<?php
+$body_class = "home-three";
+$site_title = 'Foodix - Fast Foods & Restaurants PHP Template';
+require_once 'parts/layout/head.php';
+require_once 'parts/common/flyout-cart.php';
+require_once 'parts/headers/header-two.php';
+require_once 'parts/home-pizza/hero-section.php';
+require_once 'parts/home-pizza/animated-headline-area.php';
+require_once 'parts/home-pizza/banner-section.php';
+require_once 'parts/home-pizza/menu-section.php';
+require_once 'parts/home-pizza/happy-hour-section.php';
+require_once 'parts/home-pizza/choose-your-food-section.php';
+require_once 'parts/home-pizza/booking-map-section.php';
+require_once 'parts/home-pizza/chefs-section.php';
+require_once 'parts/home-pizza/intro-section.php';
+require_once 'parts/home-pizza/testimonial-section.php';
+require_once 'parts/home-pizza/gallery-section.php';
+require_once 'parts/home-pizza/insta-gallery-section.php';
+require_once 'parts/footer/footer-default.php';
+require_once 'parts/layout/foot.php';
